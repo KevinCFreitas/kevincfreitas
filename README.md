@@ -22,8 +22,6 @@ Atualmente, estou mergulhando em diversas linguagens para expandir meu conhecime
 * **[Nome do seu Projeto de Vendas com C#]** - Uma API RESTful completa para gerenciamento de vendas, demonstrando .NET Core e Entity Framework.
 * **[Nome do seu Projeto de Chat com Node.js]** - Aplicação de chat em tempo real utilizando WebSockets para comunicação instantânea.
 * **[Nome do seu Projeto de Análise de Sentimento com Python]** - Ferramenta para analisar o sentimento de textos usando PLN.
-* **[mindsync-bot]** - Um bot para Discord desenvolvido em JavaScript. [Link para o Repo](https://github.com/KevinCFreitas/mindsync-bot)
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
