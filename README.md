@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Olá, sou o Kevin Freitas! 👋
 
