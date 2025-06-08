@@ -16,7 +16,7 @@ Atualmente, estou mergulhando em diversas linguagens para expandir meu conhecime
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 ---
 
-###✨ Projetos Recentes e Destacados
+### ✨ Projetos Recentes e Destacados
 [Controle Bot (Node.js)] – Bot de atendimento automatizado via WhatsApp, utilizando whatsapp-web.js para responder clientes com menus interativos, lógica por etapas e persistência em arquivos .json.
 
 [Apple Money (Python + Selenium)] – Script que utiliza Selenium para acessar páginas da web e exibir em tempo real o valor atual das ações da Apple (AAPL) diretamente no terminal.
