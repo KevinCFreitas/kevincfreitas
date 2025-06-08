@@ -16,12 +16,14 @@ Atualmente, estou mergulhando em diversas linguagens para expandir meu conhecime
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 ---
 
-### ✨ Projetos Recentes e Destacados
+###✨ Projetos Recentes e Destacados
+[Controle Bot (Node.js)] – Bot de atendimento automatizado via WhatsApp, utilizando whatsapp-web.js para responder clientes com menus interativos, lógica por etapas e persistência em arquivos .json.
 
-* **[API VENDAS .NET]** - Uma API RESTful completa para gerenciamento de vendas, demonstrando .NET Core e Entity Framework.
-* **[Nome do seu Projeto de Chat com Node.js]** - Aplicação de chat em tempo real utilizando WebSockets para comunicação instantânea.
-* **[Nome do seu Projeto de Análise de Sentimento com Python]** - Ferramenta para analisar o sentimento de textos usando PLN.
----
+[Apple Money (Python + Selenium)] – Script que utiliza Selenium para acessar páginas da web e exibir em tempo real o valor atual das ações da Apple (AAPL) diretamente no terminal.
+
+[API VENDAS (.NET Core)] – API RESTful completa desenvolvida com ASP.NET Core e Entity Framework, focada na gestão de vendas, produtos, clientes e relacionamentos de negócio.
+
+
 
 ### 📊 Minhas Estatísticas no GitHub
 
