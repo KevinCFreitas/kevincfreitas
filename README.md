@@ -18,7 +18,7 @@ Atualmente, estou mergulhando em diversas linguagens para expandir meu conhecime
 
 ### ✨ Projetos Recentes e Destacados
 
-* **[API VENDAS .NETC#]** - Uma API RESTful completa para gerenciamento de vendas, demonstrando .NET Core e Entity Framework.
+* **[API VENDAS .NET]** - Uma API RESTful completa para gerenciamento de vendas, demonstrando .NET Core e Entity Framework.
 * **[Nome do seu Projeto de Chat com Node.js]** - Aplicação de chat em tempo real utilizando WebSockets para comunicação instantânea.
 * **[Nome do seu Projeto de Análise de Sentimento com Python]** - Ferramenta para analisar o sentimento de textos usando PLN.
 ---
