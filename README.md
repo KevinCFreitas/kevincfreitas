@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800"/>
-</p>
+
 
 <h1 align="center">👋 Olá, eu sou o Kevin Freitas</h1>
 <h3 align="center">💻 Desenvolvedor Backend | Estudante de Sistemas | Apaixonado por tecnologia</h3>
@@ -12,7 +9,6 @@
 - 🔭 Atualmente focado em **APIs, Backend e Machine Learning**  
 - 🌱 Estudando **CS229 (Stanford) + projetos práticos em Python e .NET**  
 - 🎯 Objetivo: me tornar **Engenheiro de Software Fullstack**  
-- ⚡ Fun fact: café ☕ + código = produtividade  
 
 ---
 
@@ -34,8 +30,7 @@
 🚧 Sempre adicionando coisas novas!  
 
 - 🔹 [**ASP.NET-Core-Web-API---estudos**](https://github.com/KevinCFreitas/ASP.NET-Core-Web-API---estudos) – APIs RESTful em .NET  
-- 🔹 [**controle-bot**](https://github.com/KevinCFreitas/controle-bot) – Automação com JS  
-- 🔹 [**mindSyncTest**](https://github.com/KevinCFreitas/mindSyncTest) – Testes e experimentos  
+- 🔹 [**controle-bot**](https://github.com/KevinCFreitas/controle-bot) – Automação com JS    
 
 ---
 
