@@ -1,130 +1,197 @@
 <div align="center">
 
-<!-- BANNER: coloque a imagem do seu banner aqui (hospede em qualquer lugar, ou envie na própria repo do perfil e use o caminho relativo, ex.: ./banner.gif) -->
-<img src="./banner.gif" alt="JOSH THE BOSS" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Kevin%20Clemente%20de%20Freitas&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20Developer%20%7C%20IT%20Infrastructure&descAlignY=58&descSize=15" width="100%"/>
 
-<!-- Título grande -->
-## 🎩 **JOSH THE BOSS**
+<br>
 
-<!-- Subtítulo estilizado -->
-### **MasterJudah here!** 🔥
+<a href="https://github.com/KevinCFreitas">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- Navegação rápida -->
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1e1b3a?style=for-the-badge&logo=jekyll&logoColor=white)](https://seu-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
-nome: MasterJudah
-apelido: Josh The Boss
-interesses:
-  - Tecnologia 📱
-  - Desenvolvimento 💻
-  - Games 🎮
-  - Código limpo ✨
-programando:
-  linguagens: [JavaScript, TypeScript]
-  frontend: [React, Vite, HTML, CSS]
-  backend: [Node.js, Fastify, Prisma]
-  banco: [PostgreSQL]
-atualmente:
-  - Aprendendo coisas novas todos os dias 🚀
-  - Melhorando minhas skills em desenvolvimento 👨‍💻
-meta: "Transformando café em código ☕"
-```
-
-<!-- Pixel art animada (opcional): hospede qualquer GIF aqui -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" alt="typing" />
+<br>
 
 ---
-
-## ⚡ Tech Stack
 
 <div align="center">
 
-<!-- Seus logos favoritos (svg simples / simple-icons). Troque pelos que você usa -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 👋 About Me
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="60%" valign="center">
+
+### Hello! I'm Kevin 👨‍💻
+
+I'm a **Systems Information student** focused on  
+**Backend Development & IT Infrastructure**.
+
+Currently learning and building with:
+
+- 🚀 Backend & REST APIs
+- 🐳 Docker
+- 🐧 Linux
+- 🗄️ Databases
+- 🌐 Networks & Servers
+- ⚙️ Automation
+
+I like building practical projects and understanding
+how software connects with infrastructure.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/identicons/KevinCFreitas.png" width="180px"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 🧰 Languages & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,js,ts" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=express,fastapi,postgres,mysql,mongodb" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,nginx" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<!-- Dica: substitua "kevinCfreitas" por seu usuário em todos os links abaixo -->
-<div align="center">
+<br>
 
-[![:0px]](https://github-readme-stats.vercel.app/api?username=kevinCfreitas&show_icons=true&theme=nightowl&locale=pt-br&hide_border=true)
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=KevinCFreitas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF"
+ />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinCfreitas&show_icons=true&theme=nightowl&locale=pt-br&hide_border=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCfreitas&layout=compact&theme=nightowl&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinCfreitas&theme=nightowl&hide_border=true" alt="Current Streak" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCFreitas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"
+ />
 
 </div>
 
----
+<br>
 
-## 📌 Projetos em destaque
-
-> **Dica:** fixe os 4 repositórios que você quer destacar pela UI do GitHub
-> (aba do seu perfil → **Pinned** ou no próprio repositório → "Pin to profile").
-> Eles aparecem aqui embaixo automaticamente.
-
-<!-- Os seus pinned repos renderizam abaixo dessa linha automaticamente -->
 <div align="center">
 
-<a href="https://github.com/kevinCfreitas/repositorio-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinCfreitas&repo=repositorio-1&theme=nightowl&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/kevinCfreitas/repositorio-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinCfreitas&repo=repositorio-2&theme=nightowl&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/kevinCfreitas/repositorio-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinCfreitas&repo=repositorio-3&theme=nightowl&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/kevinCfreitas/repositorio-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinCfreitas&repo=repositorio-4&theme=nightowl&show_owner=true&hide_border=true" />
-</a>
+## 🔥 Streak
+
+<img
+src="https://streak-stats.demolab.com?user=KevinCFreitas&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF"
+ />
 
 </div>
 
----
-
-## 🐍 Contribuindo todos os dias
-
-<!-- Imagem de cobrinha (opcional, precisa do workflow do github-actions) -->
-<img src="https://raw.githubusercontent.com/kevinCfreitas/kevinCfreitas/output/snake.svg" alt="Snake animation" width="100%" />
-
----
+<br>
 
 <div align="center">
 
-<i>Feito com 🖤 por <b>MasterJudah</b></i>
+## 📈 Contributions
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kevinCfreitas&style=flat-square&color=7C3AED)
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=KevinCFreitas&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🔧 Portal de Manutenção
+
+Sistema para gerenciamento de equipamentos e manutenção de TI.
+
+`Node.js` `API` `Database`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 WhatsApp Support
+
+Automação para atendimento e suporte técnico.
+
+`Node.js` `API` `Automation`
+
+</td>
+
+<td width="33%" align="center">
+
+### 💰 Financial System
+
+Sistema para controle e gerenciamento financeiro.
+
+`Backend` `Database` `REST API`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://github.com/KevinCFreitas">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KevinCFreitas&style=flat-square&color=grey&label=PROFILE+VIEWS"/>
 
 </div>
