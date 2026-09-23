@@ -1,74 +1,141 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Welcome%20to%20Kevin's%20Github&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=%3C%2F%3E&descAlignY=65&descSize=25" width="100%"/>
 
-<h1 align="center">👋 Olá, eu sou o Kevin Freitas</h1>
-<h3 align="center">💻 Desenvolvedor Backend | Estudante de Sistemas | Apaixonado por tecnologia</h3>
+<br>
 
----
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🚀 Sobre mim
-- 🔭 Atualmente focado em **APIs, Backend e Machine Learning**  
-- 🌱 Estudando **CS229 (Stanford) + projetos práticos em Python e .NET**  
-- 🎯 Objetivo: me tornar **Engenheiro de Software Fullstack**  
+<a href="https://github.com/KevinCFreitas">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="SEU_EMAIL">
+<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🧰 Stack & Ferramentas
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
+<div align="center">
 
-🚧 Sempre adicionando coisas novas!  
+## 👨‍💻 About me
 
-- 🔹 [**ASP.NET-Core-Web-API---estudos**](https://github.com/KevinCFreitas/ASP.NET-Core-Web-API---estudos) – APIs RESTful em .NET  
-- 🔹 [**controle-bot**](https://github.com/KevinCFreitas/controle-bot) – Automação com JS    
+</div>
 
----
+<table>
+<tr>
 
-## 📊 Estatísticas do GitHub
+<td width="65%" valign="top">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCFreitas&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCFreitas&theme=radical"/>
-</p>
+Hello! I'm **Kevin Clemente de Freitas**, a Systems Information student and developer focused on **Backend Development and IT Infrastructure**.
 
----
+I'm currently studying and improving my skills in **Node.js, Python, APIs, databases, Docker and Linux**, while also exploring **computer networks, servers and infrastructure**.
 
-## 🛣️ Roadmap de Estudos
+I enjoy building practical projects, solving problems and understanding how software and infrastructure work together.
 
-📌 O que estou aprendendo agora:  
-- [x] Regressão Linear & Logística  
-- [ ] SVM e Redes Neurais  
-- [ ] PCA / ICA  
-- [ ] Aprendizado por Reforço  
+<br>
 
----
+🎓 **Systems Information Student**
 
-## 💬 Frase que me inspira
-> “First, solve the problem. Then, write the code.” – John Johnson  
+💻 **Backend Developer**
 
----
+🐧 **Linux & Infrastructure Enthusiast**
 
-## 📫 Contatos
+🌐 **Networks & Servers**
 
-<p align="center">
-  <a href="mailto:kevin2004clementefreitas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-clemente-de-freitas-6bb574231/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+🐳 **Docker & APIs**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/identicons/KevinCFreitas.png" width="180px"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-⭐ Feito com dedicação por **[Kevin Freitas](https://github.com/KevinCFreitas)**
+<div align="center">
+
+## ⚙️ Technologies
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,js,ts,express,fastapi" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,nginx" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Statistics
+
+<br>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=KevinCFreitas&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCFreitas&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=KevinCFreitas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinCFreitas&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+```text
+$ whoami
+
+KevinCFreitas
+Backend Developer
+IT Infrastructure
+Systems Information Student
