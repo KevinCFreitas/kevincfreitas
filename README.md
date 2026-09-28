@@ -12,35 +12,6 @@
 
 </div>
 
----
-
-## 🖥️ `kevin@fedora:~$ whoami`
-
-```bash
-$ whoami
-
-KevinCfreitas
-
-$ cat about.txt
-
-Backend developer and Information Systems student.
-
-Currently focused on:
-→ Go
-→ Node.js
-→ Python
-→ APIs & Backend
-→ Linux
-→ Networking
-→ Docker
-→ Servers & Infrastructure
-
-I like building things, breaking things,
-figuring out why they broke, and fixing them.
-```
-
----
-
 ## 🚀 About Me
 
 🎓 **Information Systems — 5th semester**
@@ -63,34 +34,7 @@ figuring out why they broke, and fixing them.
 
 🔧 IT technician / infrastructure experience
 
----
 
-## ⚡ Current Focus
-
-```text
-                    ┌───────────────────────┐
-                    │      CURRENT MODE     │
-                    └───────────┬───────────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-          🐹 Go             🟢 Node.js          🐧 Linux
-             │                  │                  │
-             └────────────┬─────┴─────┬────────────┘
-                          │           │
-                          ▼           ▼
-                       🌐 APIs      🐳 Docker
-                          │           │
-                          └─────┬─────┘
-                                ▼
-                         🏠 Homelab
-                                │
-                                ▼
-                         🌐 Networking
-```
-
----
 
 # 🧰 Tech Stack
 
@@ -289,57 +233,6 @@ Projetos experimentais envolvendo:
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KevinCFreitas/KevinCFreitas/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📈 My Developer Journey
-
-```text
-HTML / CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-Node.js
-     │
-     ├──────────────┐
-     ▼              ▼
-Python            C# / .NET
-     │              │
-     └──────┬───────┘
-            ▼
-         Backend
-            │
-            ▼
-          Docker
-            │
-            ▼
-          Linux
-            │
-            ▼
-       Networking
-            │
-            ▼
-       Infrastructure
-            │
-            ▼
-          Go 🐹
-            │
-            ▼
-       ??? Loading...
-```
-
----
 
 # 🧠 Currently Learning
 
