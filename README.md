@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Kevin Clemente de Freitas
+#  Kevin Clemente de Freitas
 
 ### `Backend Developer • Go • Node.js • Python • Linux • Networking`
 
@@ -12,39 +12,39 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
-🎓 **Information Systems — 5th semester**
+ **Information Systems — 5th semester**
 
-💻 Backend development enthusiast
+ Backend development enthusiast
 
-🐹 Currently diving deeper into **Go (Golang)**
+ Currently diving deeper into **Go (Golang)**
 
-🟢 Building APIs and backend systems with **Node.js**
+ Building APIs and backend systems with **Node.js**
 
-🐍 Python for automation, scripts and data
+ Python for automation, scripts and data
 
-🐧 Daily Linux user
+ Daily Linux user
 
-🌐 Interested in **Networks, Servers, Infrastructure and DevOps**
+ Interested in **Networks, Servers, Infrastructure and DevOps**
 
-🐳 Docker & self-hosting enthusiast
+ Docker & self-hosting enthusiast
 
-🏠 Building my own **Homelab**
+ Building my own **Homelab**
 
-🔧 IT technician / infrastructure experience
+ IT technician / infrastructure experience
 
 
 
-# 🧰 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,nodejs,python,cs,js,html,css" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,nodejs,express,dotnet,fastapi" />
@@ -52,19 +52,19 @@
 
 `REST APIs` • `Web APIs` • `Authentication` • `CRUD` • `Webhooks`
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
-### 🐳 DevOps / Infrastructure
+### DevOps / Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash" />
 </p>
 
-### 🌐 Networking
+### Networking
 
 ```text
 TCP/IP
@@ -79,7 +79,7 @@ IP Addressing
 Network Troubleshooting
 ```
 
-### 🖥️ Environment
+### Environment
 
 ```text
 OS        → Fedora Linux
@@ -92,9 +92,9 @@ Lab       → Homelab
 ```
 
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🛠️ Portal de Manutenção
+## Portal de Manutenção
 
 Sistema para gerenciamento de equipamentos, manutenção e fluxo de atendimento de TI.
 
@@ -114,16 +114,16 @@ Completed
 
 ### Features planejadas
 
-* 📦 Cadastro de equipamentos
-* 🏷️ Identificação por ID
-* 🔳 QR Code
-* 📸 Fotos antes/depois
-* 🔧 Controle de manutenção
-* 👨‍🔧 Técnico responsável
-* 📍 Origem / destino
-* 📝 Problema relatado
-* ⏳ Equipamentos em espera
-* 📊 Histórico de manutenção
+*  Cadastro de equipamentos
+*  Identificação por ID
+*  QR Code
+*  Fotos antes/depois
+*  Controle de manutenção
+*  Técnico responsável
+*  Origem / destino
+*  Problema relatado
+*  Equipamentos em espera
+*  Histórico de manutenção
 
 ---
 
@@ -150,7 +150,7 @@ Bot
 
 ---
 
-## 🍎 Apple Money
+## Apple Money
 
 Projeto em Python para coleta e acompanhamento de informações financeiras.
 
@@ -160,7 +160,7 @@ Projeto em Python para coleta e acompanhamento de informações financeiras.
 
 ---
 
-## 🛒 Sistemas Web
+## Sistemas Web
 
 Projetos experimentais envolvendo:
 
@@ -175,45 +175,45 @@ Projetos experimentais envolvendo:
 
 ---
 
-# 🏠 Homelab
+# Homelab
 
 ```text
-                    🌐 INTERNET
-                         │
-                         ▼
-                    ┌─────────┐
-                    │ ROUTER  │
-                    └────┬────┘
-                         │
-                    ┌────▼────┐
-                    │ SWITCH  │
-                    └────┬────┘
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       🖥️ PC         🐳 Docker       💻 Server
-          │              │              │
-          │         ┌────┴────┐         │
-          │         │         │         │
-          ▼         ▼         ▼         ▼
+                     INTERNET
+                        │
+                        ▼
+                    ┌────────┐
+                    │ ROUTER │
+                    └───┬────┘
+                        │
+                    ┌───▼────┐
+                    │ SWITCH │
+                    └───┬────┘
+                        │
+         ┌──────────────┼──────────────┐
+         │              │              │
+         ▼              ▼              ▼
+         PC           Docker         Server
+         │              │              │
+         │         ┌────┴────┐         │
+         │         │         │         │
+         ▼         ▼         ▼         ▼
        Fedora   Nextcloud  Jellyfin   Projects
 ```
 
 ### Atualmente estudando
 
-* 🐧 Linux Server
-* 🐳 Docker
-* 🌐 Networking
-* 🔀 VLANs
-* 🖥️ Servers
-* ☁️ Cloud
-* ⚙️ DevOps
-* 🔐 Cybersecurity
+* Linux Server
+* Docker
+* Networking
+* VLANs
+* Servers
+* Cloud
+* DevOps
+* Cybersecurity
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Projetos experimentais envolvendo:
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -234,24 +234,23 @@ Projetos experimentais envolvendo:
 </div>
 
 
-# 🧠 Currently Learning
+# Currently Learning
 
-| Technology     | Focus          |
-| -------------- | -------------- |
-| 🐹 Go          | Backend / APIs |
-| 🟢 Node.js     | Backend        |
-| 🐍 Python      | Automation     |
-| 🐳 Docker      | Containers     |
-| 🐧 Linux       | Servers        |
-| 🌐 Networking  | Infrastructure |
-| ☁️ Cloud       | Azure / AWS    |
-| ☸️ Kubernetes  | Orchestration  |
-| 🗄️ PostgreSQL | Database       |
-| 🍃 MongoDB     | NoSQL          |
+| Technology  | Focus          |
+| ----------- | -------------- |
+| Go          | Backend / APIs |
+| Node.js     | Backend        |
+| Python      | Automation     |
+| Docker      | Containers     |
+| Linux       | Servers        |
+| Networking  | Infrastructure |
+| Cloud       | Azure / AWS    |
+| PostgreSQL  | Database       |
+| MongoDB     | NoSQL          |
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 ```text
 [████████████████░░░░] Become stronger with Go
@@ -271,7 +270,7 @@ Projetos experimentais envolvendo:
 
 ---
 
-# 🧩 Tools I Use
+# Tools I Use
 
 <p align="center">
 
@@ -281,7 +280,7 @@ Projetos experimentais envolvendo:
 
 ---
 
-# 📡 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -301,9 +300,9 @@ Projetos experimentais envolvendo:
 
 ### `sudo rm -rf /procrastination`
 
-### 💻 Build. Break. Learn. Repeat.
+### Build. Break. Learn. Repeat.
 
-🐹 **Powered by Go** • ☕ **Fueled by coffee** • 🐧 **Running Linux**
+ **Powered by Go** • **Fueled by coffee** •  **Running Linux**
 
 <br>
 
