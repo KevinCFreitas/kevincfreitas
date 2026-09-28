@@ -1,197 +1,452 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Kevin%20Clemente%20de%20Freitas&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20Developer%20%7C%20IT%20Infrastructure&descAlignY=58&descSize=15" width="100%"/>
+# 👨‍💻 Kevin Clemente de Freitas
+
+### `Backend Developer • Go • Node.js • Python • Linux • Networking`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+%7C+Node.js+%7C+Python;Linux+%7C+Docker+%7C+Networking;Building+APIs+and+systems;Always+learning+something+new..." alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/KevinCFreitas">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=KevinCFreitas&style=for-the-badge&color=00ADD8" alt="Profile views"/>
 
 </div>
 
-<br>
+---
+
+## 🖥️ `kevin@fedora:~$ whoami`
+
+```bash
+$ whoami
+
+KevinCfreitas
+
+$ cat about.txt
+
+Backend developer and Information Systems student.
+
+Currently focused on:
+→ Go
+→ Node.js
+→ Python
+→ APIs & Backend
+→ Linux
+→ Networking
+→ Docker
+→ Servers & Infrastructure
+
+I like building things, breaking things,
+figuring out why they broke, and fixing them.
+```
+
+---
+
+## 🚀 About Me
+
+🎓 **Information Systems — 5th semester**
+
+💻 Backend development enthusiast
+
+🐹 Currently diving deeper into **Go (Golang)**
+
+🟢 Building APIs and backend systems with **Node.js**
+
+🐍 Python for automation, scripts and data
+
+🐧 Daily Linux user
+
+🌐 Interested in **Networks, Servers, Infrastructure and DevOps**
+
+🐳 Docker & self-hosting enthusiast
+
+🏠 Building my own **Homelab**
+
+🔧 IT technician / infrastructure experience
+
+---
+
+## ⚡ Current Focus
+
+```text
+                    ┌───────────────────────┐
+                    │      CURRENT MODE     │
+                    └───────────┬───────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+          🐹 Go             🟢 Node.js          🐧 Linux
+             │                  │                  │
+             └────────────┬─────┴─────┬────────────┘
+                          │           │
+                          ▼           ▼
+                       🌐 APIs      🐳 Docker
+                          │           │
+                          └─────┬─────┘
+                                ▼
+                         🏠 Homelab
+                                │
+                                ▼
+                         🌐 Networking
+```
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,cs,js,html,css" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,dotnet,fastapi" />
+</p>
+
+`REST APIs` • `Web APIs` • `Authentication` • `CRUD` • `Webhooks`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### 🐳 DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash" />
+</p>
+
+### 🌐 Networking
+
+```text
+TCP/IP
+DHCP
+DNS
+HTTP / HTTPS
+LAN
+VLAN
+Switching
+Routing
+IP Addressing
+Network Troubleshooting
+```
+
+### 🖥️ Environment
+
+```text
+OS        → Fedora Linux
+Terminal  → Bash
+Editor    → VS Code
+Git       → GitHub
+Runtime   → Node.js / Go / Python
+Containers → Docker
+Lab       → Homelab
+```
+
+---
+
+# 🐹 Go Mode: ON
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    developer := "Kevin"
+
+    skills := []string{
+        "Go",
+        "Node.js",
+        "Python",
+        "Linux",
+        "Docker",
+        "Networking",
+    }
+
+    fmt.Println("Developer:", developer)
+    fmt.Println("Currently learning:")
+
+    for _, skill := range skills {
+        fmt.Println("→", skill)
+    }
+}
+```
+
+> `Learning Go one project at a time.` 🐹
+
+---
+
+# 🚀 Featured Projects
+
+## 🛠️ Portal de Manutenção
+
+Sistema para gerenciamento de equipamentos, manutenção e fluxo de atendimento de TI.
+
+```text
+Equipment
+    ↓
+Check-in
+    ↓
+Diagnosis
+    ↓
+Maintenance
+    ↓
+Validation
+    ↓
+Completed
+```
+
+### Features planejadas
+
+* 📦 Cadastro de equipamentos
+* 🏷️ Identificação por ID
+* 🔳 QR Code
+* 📸 Fotos antes/depois
+* 🔧 Controle de manutenção
+* 👨‍🔧 Técnico responsável
+* 📍 Origem / destino
+* 📝 Problema relatado
+* ⏳ Equipamentos em espera
+* 📊 Histórico de manutenção
+
+---
+
+## 🤖 Controle Bot
+
+Bot de atendimento desenvolvido com Node.js.
+
+```text
+WhatsApp
+   │
+   ▼
+Bot
+   │
+   ├── Suporte Técnico
+   ├── Desenvolvimento
+   ├── Problemas de Internet
+   ├── Sistemas
+   └── Usuários / Senhas
+```
+
+**Stack:**
+
+`Node.js` • `whatsapp-web.js` • `PostgreSQL` • `Docker`
+
+---
+
+## 🍎 Apple Money
+
+Projeto em Python para coleta e acompanhamento de informações financeiras.
+
+**Stack:**
+
+`Python` • `Selenium` • `CSV` • `Matplotlib` • `Telegram`
+
+---
+
+## 🛒 Sistemas Web
+
+Projetos experimentais envolvendo:
+
+* React
+* APIs
+* PostgreSQL
+* Supabase
+* Autenticação
+* CRUD
+* E-commerce
+* Sistemas administrativos
+
+---
+
+# 🏠 Homelab
+
+```text
+                    🌐 INTERNET
+                         │
+                         ▼
+                    ┌─────────┐
+                    │ ROUTER  │
+                    └────┬────┘
+                         │
+                    ┌────▼────┐
+                    │ SWITCH  │
+                    └────┬────┘
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+       🖥️ PC         🐳 Docker       💻 Server
+          │              │              │
+          │         ┌────┴────┐         │
+          │         │         │         │
+          ▼         ▼         ▼         ▼
+       Fedora   Nextcloud  Jellyfin   Projects
+```
+
+### Atualmente estudando
+
+* 🐧 Linux Server
+* 🐳 Docker
+* 🌐 Networking
+* 🔀 VLANs
+* 🖥️ Servers
+* ☁️ Cloud
+* ⚙️ DevOps
+* 🔐 Cybersecurity
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCFreitas&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KevinCFreitas&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KevinCFreitas/KevinCFreitas/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 📈 My Developer Journey
+
+```text
+HTML / CSS
+     │
+     ▼
+JavaScript
+     │
+     ▼
+Node.js
+     │
+     ├──────────────┐
+     ▼              ▼
+Python            C# / .NET
+     │              │
+     └──────┬───────┘
+            ▼
+         Backend
+            │
+            ▼
+          Docker
+            │
+            ▼
+          Linux
+            │
+            ▼
+       Networking
+            │
+            ▼
+       Infrastructure
+            │
+            ▼
+          Go 🐹
+            │
+            ▼
+       ??? Loading...
+```
+
+---
+
+# 🧠 Currently Learning
+
+| Technology     | Focus          |
+| -------------- | -------------- |
+| 🐹 Go          | Backend / APIs |
+| 🟢 Node.js     | Backend        |
+| 🐍 Python      | Automation     |
+| 🐳 Docker      | Containers     |
+| 🐧 Linux       | Servers        |
+| 🌐 Networking  | Infrastructure |
+| ☁️ Cloud       | Azure / AWS    |
+| ☸️ Kubernetes  | Orchestration  |
+| 🗄️ PostgreSQL | Database       |
+| 🍃 MongoDB     | NoSQL          |
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[████████████████░░░░] Become stronger with Go
+
+[██████████████░░░░░░] Build production APIs
+
+[████████████░░░░░░░░] Improve Networking
+
+[████████████░░░░░░░░] Improve Linux Administration
+
+[██████████░░░░░░░░░░] Build a stronger Homelab
+
+[████████░░░░░░░░░░░░] Learn Cloud
+
+[██████░░░░░░░░░░░░░░] Learn Kubernetes
+```
+
+---
+
+# 🧩 Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,bash,postman,figma" />
+
+</p>
+
+---
+
+# 📡 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/KevinCFreitas">
+<img src="https://img.shields.io/badge/GitHub-KevinCFreitas-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/kevin-clemente-de-freitas-2004atrz/">
+<img src="https://img.shields.io/badge/LinkedIn-Kevin%20Clemente%20de%20Freitas-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 👋 About Me
+### `sudo rm -rf /procrastination`
 
-</div>
+### 💻 Build. Break. Learn. Repeat.
 
-<table align="center">
-<tr>
-<td width="60%" valign="center">
-
-### Hello! I'm Kevin 👨‍💻
-
-I'm a **Systems Information student** focused on  
-**Backend Development & IT Infrastructure**.
-
-Currently learning and building with:
-
-- 🚀 Backend & REST APIs
-- 🐳 Docker
-- 🐧 Linux
-- 🗄️ Databases
-- 🌐 Networks & Servers
-- ⚙️ Automation
-
-I like building practical projects and understanding
-how software connects with infrastructure.
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github.com/identicons/KevinCFreitas.png" width="180px"/>
-
-</td>
-</tr>
-</table>
+🐹 **Powered by Go** • ☕ **Fueled by coffee** • 🐧 **Running Linux**
 
 <br>
 
-<div align="center">
-
-## 🧰 Languages & Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,js,ts" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=express,fastapi,postgres,mysql,mongodb" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,nginx" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=KevinCFreitas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF"
- />
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCFreitas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"
- />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🔥 Streak
-
-<img
-src="https://streak-stats.demolab.com?user=KevinCFreitas&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF"
- />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📈 Contributions
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=KevinCFreitas&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🚀 Projects
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🔧 Portal de Manutenção
-
-Sistema para gerenciamento de equipamentos e manutenção de TI.
-
-`Node.js` `API` `Database`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 WhatsApp Support
-
-Automação para atendimento e suporte técnico.
-
-`Node.js` `API` `Automation`
-
-</td>
-
-<td width="33%" align="center">
-
-### 💰 Financial System
-
-Sistema para controle e gerenciamento financeiro.
-
-`Backend` `Database` `REST API`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📫 Let's Connect
-
-<a href="https://github.com/KevinCFreitas">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=KevinCFreitas&style=flat-square&color=grey&label=PROFILE+VIEWS"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:181717&height=120&section=footer"/>
 
 </div>
