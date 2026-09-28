@@ -147,39 +147,6 @@ Containers → Docker
 Lab       → Homelab
 ```
 
----
-
-# 🐹 Go Mode: ON
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    developer := "Kevin"
-
-    skills := []string{
-        "Go",
-        "Node.js",
-        "Python",
-        "Linux",
-        "Docker",
-        "Networking",
-    }
-
-    fmt.Println("Developer:", developer)
-    fmt.Println("Currently learning:")
-
-    for _, skill := range skills {
-        fmt.Println("→", skill)
-    }
-}
-```
-
-> `Learning Go one project at a time.` 🐹
-
----
 
 # 🚀 Featured Projects
 
