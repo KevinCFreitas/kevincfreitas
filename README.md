@@ -175,43 +175,6 @@ Projetos experimentais envolvendo:
 
 ---
 
-# Homelab
-
-```text
-                     INTERNET
-                        │
-                        ▼
-                    ┌────────┐
-                    │ ROUTER │
-                    └───┬────┘
-                        │
-                    ┌───▼────┐
-                    │ SWITCH │
-                    └───┬────┘
-                        │
-         ┌──────────────┼──────────────┐
-         │              │              │
-         ▼              ▼              ▼
-         PC           Docker         Server
-         │              │              │
-         │         ┌────┴────┐         │
-         │         │         │         │
-         ▼         ▼         ▼         ▼
-       Fedora   Nextcloud  Jellyfin   Projects
-```
-
-### Atualmente estudando
-
-* Linux Server
-* Docker
-* Networking
-* VLANs
-* Servers
-* Cloud
-* DevOps
-* Cybersecurity
-
----
 
 # GitHub Stats
 
