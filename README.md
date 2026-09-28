@@ -127,7 +127,7 @@ Completed
 
 ---
 
-## 🤖 Controle Bot
+##  Controle Bot
 
 Bot de atendimento desenvolvido com Node.js.
 
